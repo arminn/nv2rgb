@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/nv2rgb.dir/main.cpp.o  -o nv2rgb -rdynamic -lQtGui -lSM -lICE -lXext -lX11 -lm -lQtCore -lz -lrt -lpthread -ldl 
